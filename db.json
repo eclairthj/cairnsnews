@@ -1,0 +1,7 @@
+{
+  "News":[
+    { "NewId":1,"NewSubject":"好康1","NewContent":"好康1內容" },
+    { "NewId":2,"NewSubject":"好康2","NewContent":"好康2內容" },
+    { "NewId":3,"NewSubject":"好康3","NewContent":"好康3內容" }
+  ]
+}
