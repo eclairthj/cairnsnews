@@ -3,5 +3,15 @@
     { "NewId":1,"NewSubject":"好康1","NewContent":"好康1內容" },
     { "NewId":2,"NewSubject":"好康2","NewContent":"好康2內容" },
     { "NewId":3,"NewSubject":"好康3","NewContent":"好康3內容" }
+  ],
+  "Bulletin":[
+    { "BulletinId":1,"BulletinSubject":"公告1","BulletinContent":"公告1內容" },
+    { "BulletinId":2,"BulletinSubject":"公告2","BulletinContent":"公告2內容" },
+    { "BulletinId":3,"BulletinSubject":"公告3","BulletinContent":"公告3內容" }
+  ],
+  "Menu":[
+    { "MenuId":1,"MenuName":"菜單1","MenuContent":"菜單1內容" },
+    { "MenuId":2,"MenuName":"菜單2","MenuContent":"菜單2內容" },
+    { "MenuId":3,"MenuName":"菜單3","MenuContent":"菜單3內容" }
   ]
 }
